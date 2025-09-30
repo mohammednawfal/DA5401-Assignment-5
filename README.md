@@ -7,10 +7,14 @@ A5
 
 The contents of A5 are:
 - A5.ipynb
-- yeast folder
+- yeast folder (which contains the yeast.arff file)
 
 To access the submission:
 1. Clone the repo.
-2. Download the Credit Card Fraud Detection dataset and extract its contents.
-3. Place the "creditcard.csv" file in the same directory as the Jupyter Notebook.
-4. Run the code cells in the notebook.
+2. Run the code cells in the notebook.
+
+If cloning and running doesnt work:
+1. Download the Jupyter Notebook
+2. Place it in a folder
+3. Place the Yeast Dataset folder in the same directory
+4. Run the code cells in the notebook
